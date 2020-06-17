@@ -1,2 +1,66 @@
 {
+	"如何敷衍沙雕": {
+		"name": "如何敷衍沙雕",
+		"vision": "0",
+		"alert": "",
+		"url": "https://www.icloud.com/shortcuts/6b82d3f9845e4817be796b6fa8458290",
+		"description": "伸手党克星，生成baidu动画，并跳转到搜索结果",
+		"slogan": "你自己不会百度吗"
+	},
+	"计算预产期": {
+		"name": "计算预产期",
+		"vision": "0",
+		"alert": "",
+		"url": "https://www.icloud.com/shortcuts/8b234096bf8a4e5b860cae88e455fb77",
+		"description": "输入末次月经时间，计算预产期",
+		"slogan": "计算预算期，准不准另说"	
+	},
+	"保存微信推送的图片": {
+		"name": "保存微信推送的图片",
+		"vision": "0",
+		"alert": "",
+		"url": "https://www.icloud.com/shortcuts/f7820612b7ec4561808b6d2742a1e09b",
+		"description": "复制微信文章的链接，打开快捷指令，即可抓取图片",
+		"slogan": "没有我抓不到的图片"
+	},
+	"这是在哪拍摄的": {
+		"name": "这是在哪拍摄的",
+		"vision": "0",
+		"alert": "",
+		"url": "https://www.icloud.com/shortcuts/73bbef80022240078f1c6d8cbefee91f",
+		"description": "直接在相册使用，现实照片的位置信息",
+		"slogan": "显示照片的位置信息"
+	},
+	"计算间隔天数": {
+		"name": "计算间隔天数",
+		"vision": "0",
+		"alert": "",
+		"url": "https://www.icloud.com/shortcuts/d557fb1423ad4607b9269995c584b86f",
+		"description": "输入两个日期，计算中间相隔了多少天",
+		"slogan": "比手算快多了"
+	},
+	"图片多功能": {
+		"name": "图片多功能",
+		"vision": "0",
+		"alert": "",
+		"url": "https://www.icloud.com/shortcuts/d25162133b0a49909b6374e9539aa479",
+		"description": "融合了一些常见的图片小功能",
+		"slogan": "乱七八糟"
+	},
+	"pornhub生成器": {
+		"name": "pornhub生成器",
+		"vision": "0",
+		"alert": "",
+		"url": "https://www.icloud.com/shortcuts/b2e3a242591c4621b01263fae1dcd284",
+		"description": "生成pornhub风格的图标",
+		"slogan": "对，就是那个pornhub"
+	},
+	"抖音无水印视频": {
+		"name": "抖音无水印视频",
+		"vision": "0",
+		"alert": "",
+		"url": "https://www.icloud.com/shortcuts/c1102dc757164c0a9156c28bc3725813",
+		"description": "复制链接，打开本快捷指令，即可下载无水印视频。非解析，直接下载原版视频",
+		"slogan": "老子最讨厌有码/水印了"
+	}
 }
