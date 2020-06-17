@@ -94,5 +94,117 @@
 		"url": "https://www.icloud.com/shortcuts/205250982a6c46a5b91fa86cc70d6b81",
 		"description": "免费、公用手机号/邮箱接收验证码，用于临时注册，不要注册资金相关服务",
 		"slogan": "一次性注册"
+	},
+	"这个图片有多大？": {
+		"name": "这个图片有多大？",
+		"vision": "0",
+		"alert": "",
+		"url": "https://www.icloud.com/shortcuts/748032dabb8c4e3fa6fdc2a05d200472",
+		"description": "在相册直接使用，显示照片的尺寸和大小",
+		"slogan": "知道尺寸、大小"
+	},
+	"带手截图": {
+		"name": "带手截图",
+		"vision": "0",
+		"alert": "",
+		"url": "https://www.icloud.com/shortcuts/8d5a742f14aa46e8b9eb9558329c0e0d",
+		"description": "自动识别机型，套壳+手，非常apple风，另还有几种模版可以随便玩",
+		"slogan": "最apple风格的截图"
+	},
+	"App版本号查询": {
+		"name": "App版本号查询",
+		"vision": "0",
+		"alert": "",
+		"url": "https://www.icloud.com/shortcuts/e4c0e8cc72514e8cb4cefd3a39e69b19",
+		"description": "查询app的版本号，用于下载指定版本的app等用途",
+		"slogan": "app的版本号有什么用？大有妙用"
+	},
+	"视频倍速": {
+		"name": "",
+		"vision": "0",
+		"alert": "",
+		"url": "https://www.icloud.com/shortcuts/fe2b6a4e247f4ec696386fd8c14b37ce",
+		"description": "在Safari浏览器，点击分享-视频倍速",
+		"slogan": "简单，强大"
+	},
+	"获取app图标": {
+		"name": "",
+		"vision": "0",
+		"alert": "",
+		"url": "https://www.icloud.com/shortcuts/8775656419814563a5c0abc97de1e864",
+		"description": "提供了多种形状可以选",
+		"slogan": "高清无码"
+	},
+	"抓取app store故事封面": {
+		"name": "抓取app store故事封面",
+		"vision": "0",
+		"alert": "",
+		"url": "https://www.icloud.com/shortcuts/84251dab7de0409d95e3d8645769cc39",
+		"description": "保存app store里的app故事的封面，复制链接/分享到快捷指令（仅国区可用?）",
+		"slogan": "漂亮的封面，直接保存"
+	},
+	"二维码生成器": {
+		"name": "二维码生成器",
+		"vision": "0",
+		"alert": "",
+		"url": "https://www.icloud.com/shortcuts/58b5c3afd16c44478b0518edc7c04b59",
+		"description": "支持多种格式，傻瓜式操作",
+		"slogan": "万物皆可二维码"
+	},
+	"给爷整个绕口令": {
+		"name": "给爷整个绕口令",
+		"vision": "0",
+		"alert": "",
+		"url": "https://www.icloud.com/shortcuts/268ea63e5d794222badcd5825122115f",
+		"description": "听Siri读绕口令",
+		"slogan": "智障捷径"
+	},
+	"思无邪": {
+		"name": "思无邪",
+		"vision": "0",
+		"alert": "",
+		"url": "https://www.icloud.com/shortcuts/78dc18346075449a8d20f011b4181aea",
+		"description": "其实就是【一言】",
+		"slogan": "诗三百，一言以蔽之，曰思无邪"
+	},
+	"有毒吧": {
+		"name": "有毒吧",
+		"vision": "0",
+		"alert": "",
+		"url": "https://www.icloud.com/shortcuts/ccf0bd437fd44b76aec188f309a318c5",
+		"description": "心灵毒鸡汤，毒到你发慌",
+		"slogan": "毒鸡汤"
+	},
+	"好冷啊！": {
+		"name": "好冷啊！",
+		"vision": "0",
+		"alert": "",
+		"url": "https://www.icloud.com/shortcuts/e29adfc8cc214900af376234ff598641",
+		"description": "冷笑话，你懂得",
+		"slogan": "瑟瑟发抖"
+	},
+	"文字识别OCR pro": {
+		"name": "文字识别OCR pro",
+		"vision": "0",
+		"alert": "",
+		"url": "https://www.icloud.com/shortcuts/78f07947864a44f5a170e2fc4b29ec6f",
+		"description": "支持多种识别模式，可选择多张图",
+		"slogan": "最强OCR（也许是）"
+	},
+	"百度识图": {
+		"name": "",
+		"vision": "0",
+		"alert": "",
+		"url": "https://www.icloud.com/shortcuts/8dca58cd93914ed4ace00a757de46c91",
+		"description": "仅仅是选择一张图片，跳转到百度识图之后的界面，比网页版好用",
+		"slogan": "普普通通，但是方便"
+	},
+	"3C什么值得买": {
+		"name": "",
+		"vision": "0",
+		"alert": "",
+		"url": "https://www.icloud.com/shortcuts/d316af4d4a3749979e48d8a6bfc6d724",
+		"description": "（搬运）查询商品优惠",
+		"slogan": "薅羊毛利器"
 	}
 }
