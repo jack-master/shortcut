@@ -3,7 +3,7 @@
 		"name": "allShortcuts",
 		"vision": "0",
 		"alert": "船新的1.0版已发布",
-		"url": "https://www.icloud.com/shortcuts/6c7fe7650dca496ea0ec5efc8daf3368",
+		"url": "https://www.icloud.com/shortcuts/69ab0f132cea4ff2be8619eaef83f24e",
 		"description": "在列表中选择你需要的捷径，会展示简介并获取捷径",
 		"slogan": "获取那个男人的所有快捷指令"
 	},
@@ -70,5 +70,29 @@
 		"url": "https://www.icloud.com/shortcuts/c1102dc757164c0a9156c28bc3725813",
 		"description": "复制链接，打开本快捷指令，即可下载无水印视频。非解析，直接下载原版视频",
 		"slogan": "老子最讨厌有码/水印了"
+	},
+	"套壳截图": {
+		"name": "套壳截图",
+		"vision": "0",
+		"alert": "",
+		"url": "https://www.icloud.com/shortcuts/0c2a784f992b4a12b6dbb6492c89ee2b",
+		"description": "会自动识别机型，可以直接在相册使用，也可以打开快捷指令选择照片",
+		"slogan": "给apple截图套上手机壳"
+	},
+	"套壳截图全自动": {
+		"name": "套壳截图全自动",
+		"vision": "0",
+		"alert": "",
+		"url": "https://www.icloud.com/shortcuts/71db482534d440288c5b607d325b1cfc",
+		"description": "会自动识别机型，可以直接在相册使用，也可以打开快捷指令，自动选择最新的一张截图。如需手动选择，请用另一个版本",
+		"slogan": "给apple截图套上手机壳，全自动版"
+	},
+	"临时短信&邮箱": {
+		"name": "临时短信&邮箱",
+		"vision": "0",
+		"alert": "",
+		"url": "https://www.icloud.com/shortcuts/205250982a6c46a5b91fa86cc70d6b81",
+		"description": "免费、公用手机号/邮箱接收验证码，用于临时注册，不要注册资金相关服务",
+		"slogan": "一次性注册"
 	}
 }
