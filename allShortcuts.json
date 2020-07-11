@@ -95,7 +95,7 @@
         "alert": "",
         "url": "https://www.icloud.com/shortcuts/71db482534d440288c5b607d325b1cfc",
         "old_url": "",
-        "description": "会自动识别机型，可以直接在相册使用，也可以打开快捷指令，自动选择最新的一张截图。如需手动选择，请用另一个版本",
+        "description": "自动识别机型，自动选择最新的一张截图并套壳。也可相册中直接使用",
         "slogan": "给apple截图套上手机壳，全自动版"
     },
     "临时短信&邮箱": {
@@ -232,5 +232,14 @@
         "old_url": "",
         "description": "（搬运）查询商品优惠",
         "slogan": "薅羊毛利器"
+    },
+    "表情包模版": {
+        "name": "表情包模版",
+        "vision": "0",
+        "alert": "",
+        "url": "https://www.icloud.com/shortcuts/8ad9e40f4db84a71854815db3704165d",
+        "old_url": "",
+        "description": "编辑界面，添加文字以后点击分享",
+        "slogan": "喜欢的几个表情包模版"
     }
 }
